@@ -1,0 +1,29 @@
+{
+  "name": "kedge",
+  "version": "0.0.1",
+  "description": "Quickly create Fragment identifier element when needed.",
+  "main": "manifest.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgnl/kedge.git"
+  },
+  "author": "Ray Farias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgnl/kedge/issues"
+  },
+  "homepage": "https://github.com/sgnl/kedge#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.4",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.0"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  }
+}
