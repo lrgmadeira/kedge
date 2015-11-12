@@ -15,5 +15,5 @@
     "permissions": [
         "activeTab"
     ],
-    "minimum_chrome_version": "26"
+    "minimum_chrome_version": "43"
 }
