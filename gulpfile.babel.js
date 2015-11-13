@@ -11,7 +11,7 @@ Gulp.task('babel', () => {
 });
 
 Gulp.task('watch', () => {
-  Gulp.watch(Config.js, ['babel'])
+  Gulp.watch(Config.src.js, ['babel'])
 })
 
 Gulp.task('default', ['babel', 'watch'])
