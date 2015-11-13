@@ -2,7 +2,7 @@ let Config = {
   src: {
     js: 'src/**/*.js'
   },
-  'dist': 'dist'
+  'dist': './'
 }
 
 export default Config
