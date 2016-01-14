@@ -14,4 +14,8 @@ Quickly generate fragment indentifiers (anchored uri).
 
 - [https://developer.chrome.com/extensions/tabs](https://developer.chrome.com/extensions/browserAction)
 
+#### testing in browser via extension
+example: `chrome-extension://offnkbfkjnhcinhemmfcgdgbmbpcdghl/tests/testRunner.html`
+`offnkbfkjnhcinhemmfcgdgbmbpcdghl` is the local ID for the extension. IT WILL DIFFER FOR YOU
+
 ### Chrome minimum version requirement: 43
